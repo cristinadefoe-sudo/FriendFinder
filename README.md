@@ -61,7 +61,7 @@ Navigate to server.js file and run the following command lines in the terminal:
 
 ## Author
 
-* **Cristina Defoe** - (https://github.com/cristinadefoe)
+* **Cristina Defoe** 
 
 ## Acknowledgments
 
